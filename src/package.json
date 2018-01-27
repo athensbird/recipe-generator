@@ -1,0 +1,14 @@
+{
+  "name": "recipe-finder",
+  "version": "1.0.0",
+  "description": "A recipe recommendation engine based on existing ingredients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Wang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
